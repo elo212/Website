@@ -46,14 +46,14 @@
   clear: both;
 }
 
-/* .card {
+.card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 800px;
   max-height: 500px;
   margin: auto;
   text-align: left;
   font-family: arial;
-} */
+}
 
 .every_card {
     padding-top: 5%;
